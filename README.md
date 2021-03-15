@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jianbo1124
+- 👋 Hi, I’m jiabo
 - 👀 I’m interested in kotlin
 - 🌱 I’m currently learning swift
 
